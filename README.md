@@ -1,8 +1,8 @@
 # FaceRecognisition
 
 # Requirements
-# OpenCv
-# Python 2.0
+ 1)-OpenCv
+ 2)-Python 2.0
 
 Face recognition in python with HaarCascade
 HaarCascade files for eyes and face detection have been added.
